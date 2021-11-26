@@ -1,0 +1,1 @@
+# AdaLiNe-PyQt
